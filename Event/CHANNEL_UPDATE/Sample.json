@@ -1,0 +1,41 @@
+{
+    "version": 1721351089322,
+    "type": 0,
+    "topic": "\u73fe\u5728\u627f\u8a8d\u5f85\u6a5f\u4e2d\uff1a0\u4eba",
+    "rate_limit_per_user": 0,
+    "position": 23,
+    "permission_overwrites": [
+        {
+            "type": 0,
+            "id": "1179265073898852362",
+            "deny": "0",
+            "allow": "3072"
+        },
+        {
+            "type": 0,
+            "id": "1230472155293290540",
+            "deny": "0",
+            "allow": "1024"
+        },
+        {
+            "type": 0,
+            "id": "1221693685352235019",
+            "deny": "377957125121",
+            "allow": "0"
+        },
+        {
+            "type": 0,
+            "id": "1179235961398370364",
+            "deny": "11264",
+            "allow": "0"
+        }
+    ],
+    "parent_id": "1225860195641589790",
+    "nsfw": false,
+    "name": "\u2705\uff5c\u627f\u8a8d\u5f85\u3061",
+    "last_message_id": "1259847707678343221",
+    "id": "1247543852919816282",
+    "guild_id": "1179235961398370364",
+    "flags": 0,
+    "default_auto_archive_duration": 60
+}

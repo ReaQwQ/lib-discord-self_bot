@@ -1,0 +1,20 @@
+{
+    "version": 1721351069307,
+    "type": 0,
+    "topic": null,
+    "theme_color": null,
+    "rate_limit_per_user": 0,
+    "position": 0,
+    "permission_overwrites": [],
+    "parent_id": "1263394841027416077",
+    "nsfw": false,
+    "name": "\u4e00\u822c",
+    "last_message_id": "1263662683882917929",
+    "id": "1263394841027416079",
+    "icon_emoji": {
+        "name": "\ud83d\udc4b",
+        "id": null
+    },
+    "guild_id": "1263394841027416076",
+    "flags": 0
+}

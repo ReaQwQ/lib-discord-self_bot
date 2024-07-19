@@ -1,0 +1,45 @@
+{
+    "type": 0,
+    "tts": false,
+    "timestamp": "2024-07-19T01:04:55.992000+00:00",
+    "pinned": false,
+    "mentions": [],
+    "mention_roles": [],
+    "mention_everyone": false,
+    "member": {
+        "roles": [
+            "831984451188817981",
+            "692142615927455847"
+        ],
+        "premium_since": null,
+        "pending": false,
+        "nick": "2b2e.org",
+        "mute": false,
+        "joined_at": "2021-04-14T20:09:10.741000+00:00",
+        "flags": 0,
+        "deaf": false,
+        "communication_disabled_until": null,
+        "banner": null,
+        "avatar": null
+    },
+    "id": "1263662828322033664",
+    "flags": 0,
+    "embeds": [],
+    "edited_timestamp": null,
+    "content": "**<:join:707216539723759629> Tambo1768 joined**",
+    "components": [],
+    "channel_id": "711600776451194910",
+    "author": {
+        "username": "2b2e.org 19132",
+        "public_flags": 0,
+        "id": "731703658445799464",
+        "global_name": null,
+        "discriminator": "6907",
+        "clan": null,
+        "bot": true,
+        "avatar_decoration_data": null,
+        "avatar": "e084e44ffd403c5c26026a1645b91fac"
+    },
+    "attachments": [],
+    "guild_id": "692141722637172746"
+}

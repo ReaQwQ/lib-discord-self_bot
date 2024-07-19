@@ -1,0 +1,18 @@
+{
+    "role": {
+        "version": 1721351039398,
+        "unicode_emoji": null,
+        "position": 1,
+        "permissions": "0",
+        "name": "\u65b0\u3057\u3044\u30ed\u30fc\u30eb",
+        "mentionable": false,
+        "managed": false,
+        "id": "1263662590924554401",
+        "icon": null,
+        "hoist": false,
+        "flags": 0,
+        "description": null,
+        "color": 0
+    },
+    "guild_id": "1263394841027416076"
+}
