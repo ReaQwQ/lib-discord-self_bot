@@ -1,4 +1,5 @@
 # discord self bot Library for python developer.
-### **Regarding modifying this library.**
-## **Upload them to github and put them in README.md**
-## **Credits: Please write https://github.com/ReaQwQ/discord-selfbot-Library/**
+### **About changes to this library. **
+## **Please upload the full source code to github and include this message in README.md**
+## **Credit: https://github.com/ReaQwQ/discord-selfbot-Library/**
+## Please also paste this message into the github README.md.
